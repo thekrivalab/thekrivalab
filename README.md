@@ -1,4 +1,5 @@
 <p align="center">
-  <img src="./assets/aurora-kriva.svg" alt="Kriva Lab — Direção criativa humana. Tecnologia como linguagem." width="100%" />
+  <img src="./assets/kriva-hero.gif" alt="Kriva Lab — menos genérico, mais intencional." width="100%" />
 </p>
+
 
